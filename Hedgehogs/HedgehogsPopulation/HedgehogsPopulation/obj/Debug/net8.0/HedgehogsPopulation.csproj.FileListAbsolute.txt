@@ -1,0 +1,14 @@
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\net8.0\HedgehogsPopulation.exe
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\net8.0\HedgehogsPopulation.deps.json
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\net8.0\HedgehogsPopulation.runtimeconfig.json
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\net8.0\HedgehogsPopulation.dll
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\bin\Debug\net8.0\HedgehogsPopulation.pdb
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.AssemblyInfoInputs.cache
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.AssemblyInfo.cs
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.dll
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\refint\HedgehogsPopulation.dll
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.pdb
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\HedgehogsPopulation.genruntimeconfig.cache
+C:\Users\Oleksii\Documents\GitHub\TestTasksAd\Hedgehogs\HedgehogsPopulation\HedgehogsPopulation\obj\Debug\net8.0\ref\HedgehogsPopulation.dll
